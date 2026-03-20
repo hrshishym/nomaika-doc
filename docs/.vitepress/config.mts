@@ -47,6 +47,12 @@ export default defineConfig({
           { text: 'グループ管理', link: '/workspace/groups' },
         ],
       },
+      {
+        text: 'その他',
+        items: [
+          { text: 'お問い合わせ', link: '/guide/contact' },
+        ],
+      },
     ],
 
     outline: {
