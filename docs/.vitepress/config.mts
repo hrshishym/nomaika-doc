@@ -4,7 +4,7 @@ export default defineConfig({
   title: 'Nomaika マニュアル',
   description: 'フリーランス工数管理システム Nomaika の利用ガイド',
   lang: 'ja',
-  cleanUrls: true,
+  cleanUrls: false,
 
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
